@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [" E "],
+    "key": {
+        "E": {
+            "item": "minecraft:lever"
+        },
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+    "count": 64
+    }
+}
