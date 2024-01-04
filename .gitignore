@@ -1,6 +1,6 @@
 {
     "type": "minecraft:crafting_shaped",
-    "pattern": [" E "],
+    "pattern": ["#"],
     "key": {
         "#": {
             "item": "minecraft:stone"
@@ -8,6 +8,6 @@
     },
     "result": {
         "item": "minecraft:night_vision",
-        "count": 3
+    "count": 3
     }
 }
