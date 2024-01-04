@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [" E "],
+    "key": {
+        "E": {
+            "item": "minecraft:stone"
+        },
+    },
+    "result": {
+        "item": "minecraft:night_vision",
+    "count": 64
+    }
+}
