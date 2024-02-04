@@ -1,0 +1,16 @@
+{
+  "header": {
+    "pack_id": "05907bfe-a470-4bec-92ec-3221271fe2e8",
+    "name": "FullBright by moncef lm9wd",
+    "packs_version": "0.0.1",
+    "description": "GO TO TEXTURE-PACKS.COM",
+    "modules": [
+      {
+        "description": "GO TO TEXTURE-PACKS.COM",
+        "version": "0.0.1",
+        "uuid": "05907bfe-a470-4bec-92ec-3221271fe2e8",
+        "type": "resources"
+      }
+    ]
+  }
+}
